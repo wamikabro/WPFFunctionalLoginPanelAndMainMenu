@@ -1,0 +1,12 @@
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\WPF-LoginForm.exe
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\WPF-LoginForm.dll
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\WPF-LoginForm.deps.json
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\WPF-LoginForm.runtimeconfig.json
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\WPF-LoginForm.pdb
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\FontAwesome.Sharp.dll
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\INSPIRE COMP\Desktop\WPF-LoginForm\WPF-LoginForm\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
